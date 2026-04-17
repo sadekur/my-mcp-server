@@ -8,7 +8,7 @@ dotenv.config();
 
 // create the MCP server
 const server = new McpServer({
-    name: "Sumit's Calendar",
+    name: "Sadekur Rahman's Calendar",
     version: "1.0.0",
 });
 
